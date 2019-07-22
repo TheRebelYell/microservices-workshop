@@ -1,4 +1,4 @@
-package com.example.moviecatalogservice;
+package com.example.movie_catalog_service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

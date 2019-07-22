@@ -1,4 +1,4 @@
-package com.example.movieinfoservice;
+package com.example.movie_info_service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
